@@ -1,0 +1,13 @@
+#box1 {
+    border: 1px solid orange
+}
+
+#box2 {
+    border: 1px solid blue
+}
+
+#box{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly
+}
